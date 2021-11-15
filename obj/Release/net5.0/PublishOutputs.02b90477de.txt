@@ -1,0 +1,10 @@
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/appsettings.json
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/cors-fixes.dll
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/cors-fixes.deps.json
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/cors-fixes.runtimeconfig.json
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/cors-fixes.pdb
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/au299473/Workspace/cors-fixes/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
