@@ -27,8 +27,18 @@ namespace cors_fixes
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddCors(options => 
-                options.AddDefaultPolicy(builder => {
-                    builder.WithOrigins("http://localhost:4201", "https://localhost:4201").AllowAnyMethod().AllowAnyHeader();
+                options.AddDefaultPolicy(builder => 
+                {
+                    builder.WithOrigins(
+                        "https://www.swafe-01.dk", 
+                        "https://swafe-01.dk",
+                        "https://cors-react.azurewebsites.net",
+                        "http://localhost:3000",
+                        "https://localhost:3000",
+                        "http://localhost:4200", 
+                        "https://localhost:4200")
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
                 })
             );
             services.AddControllers();
